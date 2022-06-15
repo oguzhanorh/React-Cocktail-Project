@@ -18,7 +18,6 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
-      <h2>navbar component</h2>
     </nav>
   );
 };
